@@ -27,7 +27,7 @@ int main(){
   //  SisestaAndmed();
   //  AjaKontroll();
   //  SalvestaFaili();
-    
+    //lalalalalalalalalaa
     
     
 }
