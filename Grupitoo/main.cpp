@@ -25,7 +25,8 @@ int main(){
         cout << endl;
     }
 
-    //slgjdrugrghkl
-    //shgfj
+    //mis nüüd siis juhtub `???
+    //küll ma muudan kõvasti koodi woop woop
+    
     
 }
